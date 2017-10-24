@@ -1,0 +1,147 @@
+.content{
+	width: 1024px;
+	height: 3000px;
+	margin: auto;
+	margin-top: 0;
+	background-color: #68a2ff;
+}
+
+.social{
+	background-color: #d9dce2;
+	height: 60px;
+}
+
+.facebook{
+	margin-left: 810px;
+	margin-top: 25px;
+	float: left;
+}
+
+.gplus, .twitter, .sa, .linkedin, .pinterest{
+	margin-left: 2px;
+	margin-top: 25px;
+	float: left;
+}
+
+.header{
+	background-image: url('../img/bg-brand.gif');
+	height: 110px;
+}
+
+.logo{
+	margin-left: 438px;
+	padding-top: 22px;
+}
+
+.foto{
+	background-color: grey;
+	height: 327px;	
+}
+
+.menu{
+	background-color: #2f302e;
+	height: 80px;
+}
+
+.menu-horizontal{
+	margin: 0px;
+	padding-left: 20px;
+	list-style-type: none;
+}
+
+.menu-horizontal li{
+	float: left;	
+}
+
+.menu-horizontal li a{
+	display: block;
+	padding: 30px;
+	width: 150px;
+	background-color: #2f302e;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+
+.menu-horizontal li a:hover{
+	background-color: white;
+	color: black;
+}
+
+.benvenuti{
+	background-color: #2f302e;
+	margin-top:14px;
+	height: 550px;
+}
+
+.saluti{
+	background-color: #2f302e;
+	height:100px;
+	line-height:100px;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+
+.siamo{
+	background-color: #2f302e;
+	float: left;
+	width: 60%;
+	height: 450px;
+	color: white;
+	font-size: 20;	
+}
+
+p{
+	padding: auto;
+}
+
+.logospace{
+	background-color: #2f302e;
+	float: left;
+	width: 40%;
+	height: 450px;	
+}
+
+.logo2{
+	width: 350px;
+	height: 350px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.investigativa{
+	background-color: #2f302e;
+	margin-top:6px;
+	height: 100px;
+	
+}
+
+.invest{
+	color: white;
+	font-size: 30;
+	text-align: center;
+	line-height: 100px;
+}
+
+.servizio1{
+	background-color: white;
+	width: 44%;
+	height: 350px;
+	margin-left: 40px;
+	margin-top: 40px;
+	float: left;
+}
+
+.footer1{
+	margin-top: 20px; 
+	background-color: #34373d;
+	color: white;
+	height: 150px;
+}
+
+.footer2{
+	background-color: #1e1f21;
+	color: white;
+	height: 50px;
+}

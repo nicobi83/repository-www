@@ -1,0 +1,133 @@
+body{
+	background-image: url(../img/parco.jpg);
+}
+
+.content{
+	background-color: grey;
+	width:1024px;
+	height:788px;
+	margin: auto;
+	border: 2px solid green;
+}
+
+.header{
+	background-color:yellow;
+	border-bottom: 2px solid green;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-size: 30;
+	font-family: 'Francois One', sans-serif;
+}
+
+.header:hover{
+	background-color: #56d8c5;
+	color: purple;
+}
+
+.main{
+	background-color: green;
+	color: white;
+}
+
+.asideLeft{
+	background-color: blue;
+	color: white;
+	width: 30%;
+	text-align: center;
+	padding: auto;
+	height: 568px;
+	float: left;
+}
+
+.underline:hover{
+	background-color: #52ff19;
+	color: black;
+}
+
+.button{
+	margin-left: 17%;
+	background-color: yellow;
+	width: 200px;
+    text-align: center;
+	font-weight: bold;
+}
+
+.button a{
+	   display: block;
+	   text-decoration: none;
+	   font-size: 30px;
+	   height: 50px;
+	   line-height: 50px;
+	   color: black;
+}
+
+.button a:hover{
+	background-color: white;
+	color: red;
+}
+
+.menu-vertical{
+	list-style-type: none;
+}
+
+.menu-vertical li a{
+	display: block;
+	padding: 20px;
+	width: 100px;
+	background-color: grey;
+	color: black;
+	text-decoration: none;
+	border-bottom: 1px solid blue;
+}
+
+.menu-vertical li a:hover{
+	background-color: black;
+	color: white;
+}
+
+.asideRight{
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 69.8%;
+	height: 568px;	
+	float: left;
+	border-left: 2px solid green;
+}
+
+.menu-horizontal{
+	list-style-type: none;
+}
+
+.menu-horizontal li{
+	float: left;
+	margin-left: -4;	
+}
+
+.menu-horizontal li a{
+	display: block;
+	padding: 20px;
+	width: 90px;
+	background-color: grey;
+	color: black;
+	text-decoration: none;
+	border: 1px solid blue;
+}
+
+.menu-horizontal li a:hover{
+	background-color: blue;
+	color: yellow;
+}
+
+.anchor{
+	clear: both;
+}
+
+.footer{
+	background-color: orange;
+	border-top: 2px solid green;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;	
+}

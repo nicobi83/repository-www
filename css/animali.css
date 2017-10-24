@@ -1,0 +1,56 @@
+.container{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+tr{
+	background-color: #b2b9c4;	
+}
+
+.container tr:hover{
+	background-color: black;
+	color: white;
+}
+
+td{
+	border: 1px solid black;
+	height: 100px;
+}
+
+.column1{
+	width: 250px;
+	border: 1px solid black;
+}
+
+.imageContainer{
+	border: 1px solid red;
+	width: 150px;
+	height: 80px;
+	margin-left: 10px;
+}
+
+.column2{
+	width: 120px;
+	border: 1px solid black;
+}
+
+.column2Bis{
+	width: 240px;
+	border: 1px solid black;
+}
+
+.photoName{
+	text-align: center;
+	font-size: 20;
+}
+
+.column3{
+	width: 180px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.link{
+	color: red;
+	font-size: 20;
+}

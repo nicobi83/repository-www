@@ -1,0 +1,19 @@
+.comuni{
+	border: 1px solid black;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+.header{
+	background-color: #42f4eb;
+	font-weight: bold;
+}
+
+.rigaComune{
+	background-color: grey;
+}
+
+td{
+	text-align: center;
+	border: 1px solid black;
+}

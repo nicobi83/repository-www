@@ -1,0 +1,9 @@
+
+
+.menu { border: 1px solid red; margin-top: 50px; }
+
+#imageContainer{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
